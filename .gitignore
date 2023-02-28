@@ -39,6 +39,5 @@ node_modules
 *.swp
 .tern-project
 cscope.*
-dist
 
 .dev
